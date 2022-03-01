@@ -1,2 +1,2 @@
 # PingPongScoreKeeper
-![plot](./Screenshot (156).png)
+![preview](demo.png)
